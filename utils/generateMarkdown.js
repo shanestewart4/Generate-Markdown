@@ -36,7 +36,7 @@ ${data.contributors}
 ${data.test}
 
 ## Repository
-(${data.repo})
+${data.repolink}
 
 ## GitHub
 ![Picture](${gitInfo.gitImage})

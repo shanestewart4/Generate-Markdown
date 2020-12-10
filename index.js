@@ -3,7 +3,6 @@ const axios = require('axios');
 const fs = require('fs');
 const generateMD = require('./utils/generateMarkdown');
 
-
 // array of input questions for user
 const questions = [
     {
